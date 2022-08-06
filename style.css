@@ -8,6 +8,7 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
   font-size: 75%;
+  font-weight: 900;
 }
 
 section {
@@ -18,12 +19,12 @@ section {
   margin: 30px;
   font-family: Helvetica;
   color: white;
-  font-size: 25%;
+  font-size: 65%;
   padding: 10px 10px 10px 10px;
   box-sizing: border-box;
 }
 #firstbox {
-  font: 75% bold;
+  font-size: 75%;
   color: black;
   border: 2px solid black;
   padding: 10px 10px 10px 10px;
@@ -32,7 +33,7 @@ section {
   float: right;  
 }
 #secondbox {
-  font: 75% bold;
+  font-size: 75%;
   color: black;
   border: 2px solid black;
   padding: 10px 10px 10px 10px;
@@ -41,7 +42,7 @@ section {
   float: right;  
   }
   #thirdbox {
-  font: 75% bold;
+  font-size: 75%;
   color: black;
   border: 2px solid black;
   padding: 10px 10px 10px 10px;
