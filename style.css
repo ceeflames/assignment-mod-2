@@ -18,7 +18,13 @@ section {
   font-family: Helvetica;
   color: white;
 }
-
+#firstbox {
+  text-align: top right;
+  padding: 10px 10px 10px 10px;
+  border- 30px;
+  overflow: auto;
+  text-color: black;
+}
 .row {
   width: 100%;
   padding: 10px 10px 10px 10px;
