@@ -15,14 +15,13 @@ h1 {
 section {
   border: 3px solid black;
   background-color: #A52A2A;
-  width: center;
+  width: 90%;
   height: 150px;
   margin: 30px;
   font-family: Helvetica;
   color: white;
   font-size: 65%;
   padding: 10px 10px 10px 10px;
-  box-sizing: border-box;
 }
 #firstbox {
   font-size: 75%;
