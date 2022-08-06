@@ -2,36 +2,61 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  
 }
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-size: 75%;
 }
 
 section {
-  border: 1px solid black;
+  border: 3px solid black;
   background-color: #A52A2A;
-  width: 90%;
+  width: center;
   height: 150px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 30px;
   font-family: Helvetica;
   color: white;
+  font-size: 25%;
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
 }
 #firstbox {
-  text-align: top right;
+  font: 75% bold;
+  color: black;
+  border: 2px solid black;
   padding: 10px 10px 10px 10px;
-  border- 30px;
-  overflow: auto;
-  text-color: black;
+  width: 30%;
+  background: grey;
+  float: right;  
 }
+#secondbox {
+  font: 75% bold;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  width: 30%;
+  background: lightgreen;
+  float: right;  
+  }
+  #thirdbox {
+  font: 75% bold;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  width: 30%;
+  background: lightblue;
+  float: right;  
+  }
 .row {
   width: 100%;
   padding: 10px 10px 10px 10px;
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: green;
   
 }
+
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
