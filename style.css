@@ -35,7 +35,7 @@ h1 {
   padding: 10px 10px 10px 10px;
   border: 2px solid black;
   background-color: green;
-  Height: 50rem;
+  Height: 60rem;
 }
 section {
   color: black;
@@ -43,8 +43,8 @@ section {
   padding: 10px 10px 10px 10px;
   width: 30%;
   background: grey;
-  float: right;
   margin: 30px;
+  float: left;
 
 }
 #first {
