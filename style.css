@@ -6,13 +6,13 @@
   
 }
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   text-align: center;
   font-size: 75% bold;
   font-weight: 900;
 }
 
-section {
+/*section {
   border: 2px solid black;
   background-color: #A52A2A;
   margin: 30px;
@@ -20,27 +20,43 @@ section {
   font-size: 65%;
   padding: 10px 10px 10px 10px;
   float: right;
-  }
+  } */
+  /*p {
+  border: 2px solid black;
+  background-color: #A52A2A;
+  margin: 30px;
+  color: white;
+  font-size: 65%;
+  padding: 10px 10px 10px 10px;
+  float: left;
+  }*/
   div {
   width: 100%;
   padding: 10px 10px 10px 10px;
   border: 2px solid black;
   background-color: green;
   Height: 50rem;
-  clear: left;
 }
-#first {
+section {
   color: black;
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 10px 10px 10px 10px;
   width: 30%;
   background: grey;
-  margin-top: -12px;
-  margin-right: -12px;
   float: right;
-  position: top right;
+  margin: 30px;
 
 }
+#first {
+  color: white;
+  border: 1px solid black;
+  padding: 8px 8px 8px 8px;
+  width: 30%;
+  background: brown;
+  margin-top: -12px;
+  margin-right: -12px;
+  float: right;  
+  }
 #second {
   color: black;
   border: 1px solid black;
@@ -50,7 +66,6 @@ section {
   margin-top: -12px;
   margin-right: -12px;
   float: right;  
-  position: top right;
   }
 #third {
   color: brown;
@@ -61,7 +76,5 @@ section {
   margin-right: -12px;
   background: lightblue;
   float: right; 
-  position: top right;
-
   }
 
