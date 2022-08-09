@@ -21,23 +21,24 @@ h1 {
   padding: 10px 10px 10px 10px;
   float: right;
   } */
-  /*p {
+  p {
   border: 2px solid black;
   background-color: #A52A2A;
   margin: 30px;
   color: white;
   font-size: 65%;
   padding: 10px 10px 10px 10px;
-  float: left;
-  }*/
+  }
   div {
   width: 100%;
   padding: 10px 10px 10px 10px;
   border: 2px solid black;
   background-color: green;
   Height: 60rem;
+  clear: left;
 }
 section {
+  font-size: 75%;
   color: black;
   border: 2px solid black;
   padding: 10px 10px 10px 10px;
