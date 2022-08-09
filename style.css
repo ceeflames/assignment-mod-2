@@ -54,9 +54,5 @@ section > h3 {
   width: 100%;
   padding: 10px 10px 10px 10px;
   border: 2px solid black;
-  background-color: green;
-  float: right;
-  clear: right;
-  
+  background-color: green;  
 }
-
