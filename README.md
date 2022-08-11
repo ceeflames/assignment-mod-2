@@ -1,1 +1,1 @@
-Working on HTML CSS JAVASCRIP FOR WEB DEV Assignment MOD 2
+Working on HTML CSS JAVASCRIPT FOR WEB DEV Assignment MOD 2
